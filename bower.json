@@ -1,0 +1,23 @@
+{
+  "name": "bower-package",
+  "version": "0.0.1",
+  "authors": [
+    "Alair JT <alair.tavares@nexxera.com>"
+  ],
+  "description": "Package 3",
+  "main": "index.js",
+  "keywords": [
+    "teste",
+    "pkg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "library",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/alairjt/bower-package"
+}
